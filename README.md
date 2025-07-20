@@ -41,6 +41,8 @@ In summary, the Interactive Quiz Application is a lightweight, educational tool 
 
 OUTPUT:
 
+<img width="1299" height="883" alt="Image" src="https://github.com/user-attachments/assets/fa6f4395-7694-426b-8d3d-c975282d6ea2" />
+
 <img width="1305" height="901" alt="Image" src="https://github.com/user-attachments/assets/7628f687-d82b-462b-a5d3-76b85bda418c" />
 
 <img width="1403" height="821" alt="Image" src="https://github.com/user-attachments/assets/68ecef83-edea-4da5-9191-423ce9337e8c" />
