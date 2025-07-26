@@ -1,17 +1,5 @@
 # INTERACTIVE-QUIZ-APPLICATION
 
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME: SELVA NANDHINI S
-
-INTERN ID: CT04DG3334
-
-DOMAIN: FRONT END DEVELOPMENT
-
-DURATION: 4 WEEKS
-
-MENTOR: NEELA SANTOSH
-
 DESCRIPTION OF THE TASK:
 
 The Interactive Quiz Application is a browser-based quiz platform developed using HTML, CSS, and JavaScript. It is designed to offer users a fun and engaging way to test their knowledge across various subjects. The main goal of this project is to provide an interactive, user-friendly quiz system with real-time feedback, score tracking, and a clean, modern interface.
